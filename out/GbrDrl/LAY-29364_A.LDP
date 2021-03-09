@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\almaz\Desktop\Dropbox\windows\schematics\iMX6_ULL\imx6ull-openwrt-development-board\LAY-29364_A.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=lay-29364_a-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=lay-29364_a-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=lay-29364_a-roundholes-nonplated.txt|DrillLayers=gtl,gbl
